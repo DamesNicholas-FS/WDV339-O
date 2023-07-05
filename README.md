@@ -12,8 +12,20 @@ In this project we will be using the [Spotify Web API](https://developer.spotify
 * Lastest Verison of npm
 * Lastest Verison of Brew
 * Lastest Verison of Edge/Safari/Chrome/Firefox
+* Lastest Verison of ReactJS
 
 #### Getting Started
+
+First we need to install the `npm` packages:
+
+``` node
+npm install
+```
+
+Then after we can do:
+``` node
+npm run dev
+```
 
 #### Links
 The Link are what is used on the local server:
